@@ -1,0 +1,69 @@
+* {
+    font-family: Arial, 'Times New Roman', Times, serif;
+}
+
+
+img {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 50px;
+}
+
+.lasagne-d,
+.para,
+.center {
+        margin: 30px;;
+        display: inline-block;
+}
+
+.ingredients {
+    text-align: center;
+    font-size: large;
+    font-variant: small-caps;
+
+}
+
+* {
+    list-style-type: none;
+}
+
+/*Practice code*/
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.flex-container > div {
+  background-color: #ac9a5a;
+  margin: 25px;
+  padding: 25px;
+  font-size: 15px;
+  border-radius: 10px;
+}
+
+div h4 { 
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+h2 {
+  text-align: center;
+  font-variant: small-caps;
+}
+
+.section div p {
+  background-color: #ac9a5a;
+}
